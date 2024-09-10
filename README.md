@@ -1,4 +1,4 @@
-# ERC20 Sepolia to Amoy Bridge Using fxPortal
+# ERC72`A Sepolia to Amoy Bridge Using fxPortal
 This project demonstrates how to use the fxPortal contracts to transfer ERC20 tokens from Sepolia to Amoy.
 
 ### Steps for Bridging
